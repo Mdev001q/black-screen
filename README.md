@@ -1,1 +1,3 @@
-# black-screen
+<html>
+  <body style="background-color:black; margin:0;"></body>
+</html>
